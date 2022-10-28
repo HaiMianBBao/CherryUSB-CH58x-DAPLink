@@ -112,7 +112,7 @@
 
 //#define USBD_IRQHandler USBD_IRQHandler
 //#define USB_BASE (0x40080000UL)
-//#define USB_NUM_BIDIR_ENDPOINTS 4
+#define USB_NUM_BIDIR_ENDPOINTS 8
 
 /* ================ USB Host Port Configuration ==================*/
 
