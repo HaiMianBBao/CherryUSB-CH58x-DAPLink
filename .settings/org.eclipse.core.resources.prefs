@@ -1,4 +1,6 @@
 eclipse.preferences.version=1
+encoding//CherryUSB-Daplink/CherryUSB/port/ch32/usb_ch58x_dc_usbfs.c=UTF-8
+encoding//CherryUSB-Daplink/src/dap_main.c=UTF-8
 encoding//DAP/src/dap_main.c=UTF-8
 encoding//Daplink/dap_main.c=UTF-8
 encoding//dap_port/port_core.c=UTF-8

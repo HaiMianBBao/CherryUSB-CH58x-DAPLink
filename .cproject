@@ -126,8 +126,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="CherryUSB-Daplink/port/template|CherryUSB-Daplink/port/stm32f1|CherryUSB-Daplink/CherryUSB/third_party|CherryUSB-Daplink/CherryUSB/tools|CherryUSB-Daplink/CherryUSB/port|CherryUSB-Daplink/CherryUSB/packet capture|CherryUSB-Daplink/CherryUSB/docs|CherryUSB-Daplink/CherryUSB/osal|CherryUSB-Daplink/CherryUSB/demo|CherryUSB-Daplink/CherryUSB/core/usbh_core.h|CherryUSB-Daplink/CherryUSB/core/usbh_core.c|CherryUSB-Daplink/CherryUSB/cherryusb_config_template.h|CherryUSB-Daplink/CherryUSB/class|dap_port|ringbuffer|CherryUSB|DAP/port/stm32f103|DAP/src/DAP/Source/UART.c|DAP/src/DAP/Source/SWO.c|DAP/src/DAP/Source/DAP_vendor.c|CherryUSB/core/usbh_core.h|CherryUSB/core/usbh_core.c|CherryUSB/class/cdc/usbh_cdc_acm.h|CherryUSB/class/cdc/usbh_cdc_acm.c|CherryUSB/class/wireless|CherryUSB/class/video|CherryUSB/class/vendor|CherryUSB/class/tmc|CherryUSB/class/template|CherryUSB/class/printer|CherryUSB/class/mtp|CherryUSB/class/msc|CherryUSB/class/midi|CherryUSB/class/hub|CherryUSB/class/hid|CherryUSB/class/dfu|CherryUSB/class/audio|CherryUSB/tools|CherryUSB/third_party|CherryUSB/packet capture|CherryUSB/osal|CherryUSB/docs|CherryUSB/demo|CherryUSB/port/template|CherryUSB/port/ohci|CherryUSB/port/nuvoton|CherryUSB/port/nrf5x|CherryUSB/port/musb|CherryUSB/port/mm32|CherryUSB/port/imxrt|CherryUSB/port/fsdev|CherryUSB/port/ehci|CherryUSB/port/dwc2|CherryUSB/port/bouffalolab|CherryUSB/port/ch32/README.md|CherryUSB/port/ch32/usb_dc_usbhs.c|CherryUSB/port/ch32/usb_dc_usbfs.c|CherryUSB/port/ch32/usb_ch32_usbhs_reg.h|CherryUSB/port/ch32/usb_ch32_usbfs_reg.h|Ld|RVMSIS|Startup|StdPeriphDriver" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
-						<entry excluding="usbh_cdc_acm.h|usbh_cdc_acm.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CherryUSB-Daplink/CherryUSB/class/cdc"/>
+						<entry excluding="CherryUSB-Daplink/src/winusb.c|CherryUSB-Daplink/CherryUSB/platform|CherryUSB-Daplink/port/template|CherryUSB-Daplink/port/stm32f1|CherryUSB-Daplink/CherryUSB/third_party|CherryUSB-Daplink/CherryUSB/tools|CherryUSB-Daplink/CherryUSB/port|CherryUSB-Daplink/CherryUSB/packet capture|CherryUSB-Daplink/CherryUSB/docs|CherryUSB-Daplink/CherryUSB/osal|CherryUSB-Daplink/CherryUSB/demo|CherryUSB-Daplink/CherryUSB/core/usbh_core.h|CherryUSB-Daplink/CherryUSB/core/usbh_core.c|CherryUSB-Daplink/CherryUSB/cherryusb_config_template.h|CherryUSB-Daplink/CherryUSB/class|dap_port|ringbuffer|CherryUSB|DAP/port/stm32f103|DAP/src/DAP/Source/UART.c|DAP/src/DAP/Source/SWO.c|DAP/src/DAP/Source/DAP_vendor.c|CherryUSB/core/usbh_core.h|CherryUSB/core/usbh_core.c|CherryUSB/class/cdc/usbh_cdc_acm.h|CherryUSB/class/cdc/usbh_cdc_acm.c|CherryUSB/class/wireless|CherryUSB/class/video|CherryUSB/class/vendor|CherryUSB/class/tmc|CherryUSB/class/template|CherryUSB/class/printer|CherryUSB/class/mtp|CherryUSB/class/msc|CherryUSB/class/midi|CherryUSB/class/hub|CherryUSB/class/hid|CherryUSB/class/dfu|CherryUSB/class/audio|CherryUSB/tools|CherryUSB/third_party|CherryUSB/packet capture|CherryUSB/osal|CherryUSB/docs|CherryUSB/demo|CherryUSB/port/template|CherryUSB/port/ohci|CherryUSB/port/nuvoton|CherryUSB/port/nrf5x|CherryUSB/port/musb|CherryUSB/port/mm32|CherryUSB/port/imxrt|CherryUSB/port/fsdev|CherryUSB/port/ehci|CherryUSB/port/dwc2|CherryUSB/port/bouffalolab|CherryUSB/port/ch32/README.md|CherryUSB/port/ch32/usb_dc_usbhs.c|CherryUSB/port/ch32/usb_dc_usbfs.c|CherryUSB/port/ch32/usb_ch32_usbhs_reg.h|CherryUSB/port/ch32/usb_ch32_usbfs_reg.h|Ld|RVMSIS|Startup|StdPeriphDriver" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="usbd_cdc_ecm.h|usbd_cdc_ecm.c|usbh_cdc_ncm.h|usbh_cdc_ncm.c|usbh_cdc_ecm.h|usbh_cdc_ecm.c|usbh_cdc_acm.h|usbh_cdc_acm.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CherryUSB-Daplink/CherryUSB/class/cdc"/>
 						<entry excluding="usb_dc_usbhs.c|usb_dc_usbfs.c|usb_ch32_usbhs_reg.h|usb_ch32_usbfs_reg.h|README.md" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="CherryUSB-Daplink/CherryUSB/port/ch32"/>
 					</sourceEntries>
 				</configuration>
@@ -140,17 +140,6 @@
 	</storageModule>
 	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
 	<storageModule moduleId="org.eclipse.cdt.make.core.buildtargets"/>
-	<storageModule moduleId="refreshScope" versionNumber="2">
-		<configuration configurationName="obj">
-			<resource resourceType="PROJECT" workspacePath="/VendorDefinedDev"/>
-		</configuration>
-		<configuration configurationName="Debug">
-			<resource resourceType="PROJECT" workspacePath="/000"/>
-		</configuration>
-		<configuration configurationName="Release">
-			<resource resourceType="PROJECT" workspacePath="/000"/>
-		</configuration>
-	</storageModule>
 	<storageModule moduleId="scannerConfiguration">
 		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
 		<scannerConfigBuildInfo instanceId="ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.release.1008047074;ilg.gnumcueclipse.managedbuild.cross.riscv.config.elf.release.1008047074.;ilg.gnumcueclipse.managedbuild.cross.riscv.tool.c.compiler.1731377187;ilg.gnumcueclipse.managedbuild.cross.riscv.tool.c.compiler.input.2036806839">
@@ -160,4 +149,5 @@
 			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
 		</scannerConfigBuildInfo>
 	</storageModule>
+	<storageModule moduleId="refreshScope"/>
 </cproject>
